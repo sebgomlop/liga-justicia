@@ -19,3 +19,6 @@ Pueden hacer lo que quieran...
 * c
   * e1
   * e2
+
+
+revisar cambios con fetch
